@@ -13,7 +13,7 @@ int main() {
     float densidade1;
     float pibPerCapita1;
 
-    /* #Variáveis Carta 2# */
+    /* ##Variáveis Carta 2## */
     char estado2;
     char codigo2[4];
     char cidade2[50];
